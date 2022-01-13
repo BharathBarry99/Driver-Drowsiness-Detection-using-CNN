@@ -5,7 +5,7 @@ The dataset used is in the folder "IMAGES"
  
 ## Abstract 
 According to the National Highway Traffic Safety Administration, 91,000 crashes involving drowsy drivers occur each year, resulting in 50,000 injuries and roughly 800 deaths. In addition, one out of every 24 adult drivers had fallen asleep behind the wheel in the last 30 days. According to studies, sleeping for more than 20 hours is similar to having a blood alcohol concentration of 0.08 percent. 
-Here, i deceided to construct a neural network that can detect if eyes are closed and, when combined with computer vision, can detect if a real individual has had their eyes closed for more than 2 secondw. Anyone interested in better driving safety, including commercial and everyday drivers, automobile firms, and vehicle-insurance companies, can benefit from this technology.
+Here, i deceided to construct a neural network that can detect if eyes are closed and, when combined with computer vision, can detect if a real individual has had their eyes closed for more than 2 seconds. Anyone interested in better driving safety, including commercial and everyday drivers, automobile firms, and vehicle-insurance companies, can benefit from this technology.
 For this project, we will collect data, analyse the data, pre-process the data, create a convolutional neural network, construct a model architecture, save the model, and create a webcam to monitor the driver's drowsiness.
 
 ## Face Recognition Library in Python
