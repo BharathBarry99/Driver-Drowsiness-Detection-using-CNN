@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection using CNN
+# REAL TIME Driver Drowsiness Detection using CNN
  With the help of OpenCV,tensorflow and keras ,i created a model that can detect if the driver is drowsy on not and alert him with a rooster sound whenever he feels drowsy.
 
 The dataset used is in the folder "IMAGES"
