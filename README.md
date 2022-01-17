@@ -1,7 +1,7 @@
 # REAL TIME Driver Drowsiness Detection using CNN
  With the help of OpenCV,tensorflow and keras ,i created a model that can detect if the driver is drowsy on not and alert him with a rooster sound whenever he feels drowsy.
 
-The dataset used is in the folder "IMAGES"
+The dataset used is in the folder "IMAGES" containing more than 4000 images
  
 ## Abstract 
 According to the National Highway Traffic Safety Administration, 91,000 crashes involving drowsy drivers occur each year, resulting in 50,000 injuries and roughly 800 deaths. In addition, one out of every 24 adult drivers had fallen asleep behind the wheel in the last 30 days. According to studies, sleeping for more than 20 hours is similar to having a blood alcohol concentration of 0.08 percent. 
